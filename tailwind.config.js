@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      'testFont': ['Roboto sans-serif']
+      'HDCDotum': ['HCRDotum,helvetica,"Apple SD Gothic Neo",sans-serif']
     }
   },
   variants: {

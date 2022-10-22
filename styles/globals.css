@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'HCRDotum';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('../assets/fonts/HANDotum.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'HCRDotum';
+  font-style: bold;
+  font-weight: 700;
+  src: local(''), url('../assets/fonts/HANDotumB.woff2') format('woff2');
+}
