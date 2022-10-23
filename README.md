@@ -3,8 +3,13 @@
 ## 코어라이브러리
 
 1. Nextjs
-2. TailwindCSS - 스타일
-3. next-i18n-next - 다국어
+2. TailwindCSS : 스타일
+3. next-i18n-next : 다국어
+
+## 오픈소스 라이브러리
+
+1. react-query : api fetch, cache
+2. dayjs : formatting DATE
 
 ## 필수 요구 사항
 

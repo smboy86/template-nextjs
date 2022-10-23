@@ -1,0 +1,38 @@
+<svg
+  xmlns='http://www.w3.org/2000/svg'
+  width='16'
+  height='16'
+  viewBox='0 0 16 16'>
+  <g id='Menu' transform='translate(-35 -37)'>
+    <rect
+      id='Rectangle_175'
+      data-name='Rectangle 175'
+      width='16'
+      height='16'
+      transform='translate(35 37)'
+      fill='none'
+    />
+    <g id='Union_4' data-name='Union 4' transform='translate(35 38)'>
+      <rect
+        id='Rectangle_172'
+        data-name='Rectangle 172'
+        width='16'
+        height='2'
+      />
+      <rect
+        id='Rectangle_173'
+        data-name='Rectangle 173'
+        width='16'
+        height='2'
+        transform='translate(0 6)'
+      />
+      <rect
+        id='Rectangle_174'
+        data-name='Rectangle 174'
+        width='8'
+        height='2'
+        transform='translate(0 12)'
+      />
+    </g>
+  </g>
+</svg>
